@@ -7,4 +7,3 @@ public int resta(int a, int b){
     int resta = a - b;
     return resta;
 }
-//123456789
